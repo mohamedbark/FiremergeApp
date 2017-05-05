@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.4_3929672f4e9cdfb53a2544c2e62be2c5fb0c1bf8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.4_a7c8524f0d3ab451242c811539ed2f79309ba8f6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="6b8ad09b76c4ffaedf443ca54bc2418760870689">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.4_cb266ba1181e65f436320e93442e264858291953\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_5822c09df53eb4cc9eb9b2a3fbc0ffc6649a0d9d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_2a3aea818cbac5fa1c1fbdaeece0b7fd3ad8bc23\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_23753fb109b6df8c5cba696251ce46ef421ccb49\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.4_d4861b34fd22208c79111c1a61dc372488df3787\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_6b0855d589763ff96b7476345edbca53351ca2bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_bbb25e57c01598ed47e118992c11c7e2080e81d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_b1a36b34148fee6f48df8a9e1aef99af407e1c1b\classes.dex" />
+    </item>
+    <item
+        jar="D:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c22ad5cfc73745455897b51262db6d4a2ae07540\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.4_b07f62fbe248eb297d1558ba272c90dc18d6438d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="8748e15968514ff1708deb3bb7f0c17623e50bbb">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.4_10e6c1df102722991d209e981d79c1b890b6489e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_6e3bbc5d9ddb57f60aaca2e7cf4ad8e44d05498e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.4_1a7d6540452995d2598d90aae6c63a5c11632046\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_2a202c4c2aa850d6b557fb2cfcafc53ddb0f64b1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_01b7bbde00d3a20a0ce1412872c321f8f66ce0d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="6d9ec1d8a2cefc03e01a045ca7f8fe7a5bbd6108">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_415d13ad0485993f6fc6321f6eb4071164a2b571\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_635cacf565f5e59d63b34e029d6b2b47101e76a3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_db08e6f1899e0622d94d979ac884f3d9d4c98a51\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_396fa237088977a7abc73cf1d1e820af50dbff6f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.4_a3e5fe4b67deaa9e3d51c7b810e9203f62479248\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.4_3072c42b403d3f282a0780e20dcdc93b25771478\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="251b025eb07e10e552a3e4681bdb308d2f1e1435">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f120bf4278a87eeb23287f65c726586a83206e14\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.4\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.3"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="C:\Users\Eng - Mohamed Bakr\Desktop\connectingwithfirebase\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.4_36a708bc0ac47cba31fa1de1861340fad5b7814b\classes.dex" />
+    </item>
+
+</items>
